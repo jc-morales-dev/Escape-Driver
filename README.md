@@ -1,6 +1,6 @@
 # Escape Driver
 
-[![CI](https://github.com/Victor00128/Escape-Driver/actions/workflows/ci.yml/badge.svg)](https://github.com/Victor00128/Escape-Driver/actions/workflows/ci.yml)
+[![CI](https://github.com/jc-morales-dev/Escape-Driver/actions/workflows/ci.yml/badge.svg)](https://github.com/jc-morales-dev/Escape-Driver/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-0F172A.svg)](./LICENSE)
 
 **Play it:** [escape-driver.vercel.app](https://escape-driver.vercel.app)
@@ -92,7 +92,7 @@ client/src/
 Requires Node.js 22.13 or newer and pnpm 11.
 
 ```bash
-git clone https://github.com/Victor00128/Escape-Driver.git
+git clone https://github.com/jc-morales-dev/Escape-Driver.git
 cd Escape-Driver
 corepack enable
 pnpm install --frozen-lockfile
