@@ -3,11 +3,11 @@
 [![CI](https://github.com/jc-morales-dev/Escape-Driver/actions/workflows/ci.yml/badge.svg)](https://github.com/jc-morales-dev/Escape-Driver/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-0F172A.svg)](./LICENSE)
 
-**Status:** `demo` — playable public demo. **Scaffold note:** started from a web-app builder template; residual `server/` and `ManusDialog.tsx` are not core gameplay.
+**Status:** `demo` — playable public demo. **Scaffold note:** started from a web-app builder template; residual `server/` is not core gameplay.
 
 **Play it:** [escape-driver.vercel.app](https://escape-driver.vercel.app)
 
-> **Origin note:** started from a web-app builder/scaffold template; leftover `server/` static host and `ManusDialog.tsx` are residual scaffold, not core gameplay.
+> **Origin note:** started from a web-app builder/scaffold template; leftover `server/` static host is residual scaffold, not core gameplay.
 
 ![Escape Driver Gameplay](assets/gameplay.webp.png)
 
