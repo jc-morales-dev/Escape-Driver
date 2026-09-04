@@ -5,6 +5,8 @@
 
 **Play it:** [escape-driver.vercel.app](https://escape-driver.vercel.app)
 
+> **Origin note:** started from a web-app builder/scaffold template; leftover `server/` static host and `ManusDialog.tsx` are residual scaffold, not core gameplay.
+
 ![Escape Driver Gameplay](assets/gameplay.webp.png)
 
 > A top-down police-chase arcade game set in an open neon arena. Outrun a coordinated police force across a wide procedural map — drift, escape and survive.
